@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    text-align: center;
+}
+
+#canvas {
+    border: 2px solid #ccc;
+}
+
+.btn {
+    cursor: pointer;
+}
